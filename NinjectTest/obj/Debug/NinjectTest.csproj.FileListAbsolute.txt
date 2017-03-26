@@ -1,0 +1,8 @@
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\bin\Debug\NinjectTest.exe.config
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\bin\Debug\NinjectTest.exe
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\bin\Debug\NinjectTest.pdb
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\bin\Debug\Ninject.dll
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\bin\Debug\Ninject.xml
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\obj\Debug\NinjectTest.csprojResolveAssemblyReference.cache
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\obj\Debug\NinjectTest.exe
+c:\users\pat\documents\visual studio 2015\Projects\NinjectTest\NinjectTest\obj\Debug\NinjectTest.pdb
