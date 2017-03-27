@@ -10,12 +10,6 @@ namespace NinjectTest
     {
         private readonly ILogging logging;
 
-        public MockMailSender(ILogging logging)
-        {
-            this.logging = logging;
-            logging.Log("MockMailSender error log test.");
-        }
-
         public void Send(string toAddress, string subject)
         {
             Console.WriteLine("Mocking mail to [{0}] with subject [{1}]", toAddress, subject);
