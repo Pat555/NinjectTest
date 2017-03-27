@@ -8,7 +8,7 @@ namespace NinjectTest
 {
     class MockMailSender : IMailSender
     {
-        //private readonly ILogging logging;
+        private readonly ILogging logging;
 
         public void Send(string toAddress, string subject)
         {
